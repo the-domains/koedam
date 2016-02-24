@@ -1,0 +1,28 @@
+name: koedam
+favicon: null
+layout_spectrum: 0.36153101339004934
+typography_spectrum: 0.37604700890369713
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.43583284271880984
+  lightness: 0.8717200753744692
+  saturation: 0.04938928037881851
+  rhythmicContrast: 0.5170516008511186
+purpose: []
